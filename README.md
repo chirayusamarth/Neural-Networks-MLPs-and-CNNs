@@ -25,8 +25,7 @@ x\['train'\]\[1\] containing the corresponding labels of size N.
 
 # Cautions
 
-Please do not import packages that are not listed in the provided code. Follow the instructions
-in each section strictly to code up your solutions. Do not change the output format. Do
+You have been provided with pre-written code. TAs have done pre-processing of the data, formatting of the output and few other things for you so that you do not need to start from scratch. Please do not import packages that are not listed in the provided code. Follow the instructions in each section strictly to code up your solutions. Do not change the output format. Do
 not modify the code unless we instruct you to do so.
 
 
